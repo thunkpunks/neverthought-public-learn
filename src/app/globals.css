@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "Fira Mono", monospace;
+}
+
+html {
+  background-color: #0a0a0b;
+  color: #c8c8d4;
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: #3a5acc;
+  color: #e8e8f0;
+}
+
+/* Remove default focus outline and replace with visible one */
+:focus-visible {
+  outline: 1px solid #6b8cff;
+  outline-offset: 2px;
+}
