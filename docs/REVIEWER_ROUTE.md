@@ -2,26 +2,49 @@
 
 Purpose: reproduce the public claim surface quickly and inspect non-claims before interpretation.
 
-1. Run the public test suites.
+1. Run public tests.
 2. Read NON_CLAIMS before capability claims.
 3. Inspect proof surfaces and examples.
-4. Treat these repositories as evidence exhibits, not product claims.
+4. Treat repositories as evidence exhibits, not product claims.
 
-Repository sequence:
+## Review sequence
 
-- Tracebench: what happened?
-- CEC Observatory: what distinctions can be replayably coded?
-- TraceClaim: what may be claimed from the trace?
-- Claim Boundary Review: does the claim exceed its evidence?
-- Projection Graduation Ledger: may the claim be promoted?
-- Admissibility Kernel: what may be committed?
-- Constitutional Runtime Substrate: what may act, with receipts and replay?
+### [Public Repo] Tracebench
 
-Core distinction:
+What happened?
 
-existence != authority
+### [Public Repo] CEC Observatory
+
+What distinctions can be replayably coded?
+
+### [Public Artifact] TraceClaim
+
+What may be claimed from observations?
+
+### [Public Artifact] Claim Boundary Review
+
+Does a claim exceed available evidence?
+
+### [Public Artifact] Projection Graduation Ledger
+
+May a claim be promoted?
+
+### [Public Repo] Admissibility Kernel
+
+What may be committed?
+
+### [Public Repo] Constitutional Runtime Substrate
+
+What may act, with receipts, lineage, and replay?
+
+## Core Distinctions
+
 observation != claim
+
 claim != review
+
 review != promotion
+
 promotion != commitment
+
 commitment != action
