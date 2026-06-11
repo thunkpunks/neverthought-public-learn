@@ -11,6 +11,9 @@ Repository sequence:
 
 - Tracebench: what happened?
 - CEC Observatory: what distinctions can be replayably coded?
+- TraceClaim: what may be claimed from the trace?
+- Claim Boundary Review: does the claim exceed its evidence?
+- Projection Graduation Ledger: may the claim be promoted?
 - Admissibility Kernel: what may be committed?
 - Constitutional Runtime Substrate: what may act, with receipts and replay?
 
@@ -18,5 +21,7 @@ Core distinction:
 
 existence != authority
 observation != claim
-claim != commitment
+claim != review
+review != promotion
+promotion != commitment
 commitment != action
